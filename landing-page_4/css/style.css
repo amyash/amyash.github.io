@@ -1,6 +1,7 @@
 /* Base */
+
 body {
-  background: #000;
+  background-color: #000;
   color: #333;
   font-weight: 500;
   font-size: 1em;
@@ -44,7 +45,9 @@ a:hover, a:focus,
 .video {
   display: block;
   min-width: 100%;
-  margin: 0 auto; }
+  pointer-events: none;
+  margin: 0 auto;
+}
 
 .menu {
   text-align: center;
@@ -124,17 +127,27 @@ a:hover, a:focus,
 
 /* media */
 @media screen and (max-width: 800px) {
+  html {
+    background: url("../img/london-skyline.jpg")#000 no-repeat center right fixed;
+  }
+  body {
+    background-color: transparent;
+  }
+  .hide-video {
+    visibility: hidden;
+  }
   .bmenu{
     border: none;
-    text-align: left;
-    width:0;
-    height:0;
-    padding: 0;
-    margin: 0 20px;
-    font-family: 'Raleway', Arial, sans-serif; 
+    margin: auto;
+    /*text-align: left;*/
+    /*width:0;*/
+    /*height:0;*/
+    /*padding: 0;*/
+    /*margin: 0 20px;*/
+    /*font-family: 'Raleway', Arial, sans-serif; */
   }
   .bmenu li {
-    font-size: 40px;
+    font-size: 80px;
   }
   .web text,
   .music text,
