@@ -2,137 +2,266 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d479b64-11ab-4ada-8fdb-1fdcc186c7b4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/animate-config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/animate.css/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/classie/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/classie/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/classie/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/classie/classie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-waypoints/lib/jquery.waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/retina.js/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/retina.js/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/retina.js/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/retina.js/dist/retina.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/retina.js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/CONTRIBUTING.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick.jquery.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/fonts/slick.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/fonts/slick.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/fonts/slick.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/fonts/slick.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick-theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/slick/slick/slick.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.codekit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/etline-font.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flexslider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/queries.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/Read Me.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/et-line.dev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/fonts/et-line.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/fonts/et-line.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/fonts/et-line.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/fonts/et-line.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/lte-ie7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line-font/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/et-line.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/flexslider-icon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/flexslider-icon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/flexslider-icon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/flexslider-icon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/avatar@2x.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg_play_pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-img-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-img-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/blog-img-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/devices.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/devices@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hero.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ipad-device.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iphone-device.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/iphone6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/macbook-pro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/macbook-pro@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mani.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/polygonal-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sedna-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sedna-logo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sketch-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sketch-logo@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/testimonials-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/min/scripts-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/ie.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_colors.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/partials/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/animate-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/animate.css/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/classie/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/classie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/classie/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/classie/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/jquery-waypoints/lib/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/retina.js/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/retina.js/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/retina.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/retina.js/dist/retina.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/retina.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/CONTRIBUTING.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick-theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/bower_components/slick/slick/slick.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/config.codekit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/etline-font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/normalize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/et-line.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/fonts/et-line.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/fonts/et-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/fonts/et-line.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/fonts/et-line.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line-font/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/et-line.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/flexslider-icon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/flexslider-icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/flexslider-icon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/flexslider-icon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/avatar@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/bg_play_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/blog-img-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/blog-img-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/blog-img-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/devices@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/hero-min.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/ipad-device.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/iphone-device.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/iphone6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/macbook-pro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/macbook-pro@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/mani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/polygonal-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/sedna-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/sedna-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/sketch-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/sketch-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/img/testimonials-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/min/scripts-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/vendor/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/vendor/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/js/vendor/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/ie.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/partials/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/partials/_colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/partials/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/partials/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/BLAH/sass/styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/animate-config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/animate.css/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/classie/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/classie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/classie/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/classie/classie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/jquery-waypoints/lib/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/retina.js/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/retina.js/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/retina.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/retina.js/dist/retina.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/retina.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/CONTRIBUTING.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick-theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/bower_components/slick/slick/slick.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/config.codekit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/etline-font.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/normalize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/Read Me.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/et-line.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/fonts/et-line.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/fonts/et-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/fonts/et-line.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/fonts/et-line.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line-font/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/et-line.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/flexslider-icon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/flexslider-icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/flexslider-icon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/flexslider-icon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/130.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/avatar@2x.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/bg_play_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/blog-img-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/blog-img-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/blog-img-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/devices@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/find_course.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/hero-min.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/hero.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/ipad-device.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/iphone-device.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/iphone6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/macbook-pro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/macbook-pro@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/mani.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/polygonal-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/sedna-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/sedna-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/sketch-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/sketch-logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/img/testimonials-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/min/scripts-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/vendor/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/vendor/jquery-1.11.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/js/vendor/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/ie.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/partials/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/partials/_colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/partials/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/partials/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/campaign-page/sass/styles.scss" afterPath="" />
     </list>
     <ignored path="amyash.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -156,38 +285,7 @@
     <favorites_list name="amyash.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/campaign-page/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="10177" max-vertical-offset="10905">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/campaign-page/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8145604" vertical-offset="1057" max-vertical-offset="1785">
-              <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/campaign-page/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.833334" vertical-offset="541" max-vertical-offset="2280">
-              <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -197,8 +295,10 @@
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/campaign-page/index.html" />
         <option value="$PROJECT_DIR$/campaign-page/js/scripts.js" />
+        <option value="$PROJECT_DIR$/campaign-page/index.html" />
+        <option value="$PROJECT_DIR$/campaign-page/css/styles.css" />
+        <option value="$PROJECT_DIR$/landing-page/amy_ash_index-23a.html" />
       </list>
     </option>
   </component>
@@ -253,10 +353,6 @@
               <option name="myItemId" value="amyash.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="campaign-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -268,79 +364,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="campaign-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="campaign-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="campaign-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="slick" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="campaign-page" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amyash.github.io" />
+              <option name="myItemId" value="landing-page" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,7 +417,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3200469" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -401,7 +425,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20028612" sideWeight="0.49932885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20028612" sideWeight="0.49932885" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2569956" sideWeight="0.50067115" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.049689442" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -435,31 +459,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/campaign-page/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.833334" vertical-offset="541" max-vertical-offset="2280">
-          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/campaign-page/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="10177" max-vertical-offset="10905">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/campaign-page/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8145604" vertical-offset="1057" max-vertical-offset="1785">
-          <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
