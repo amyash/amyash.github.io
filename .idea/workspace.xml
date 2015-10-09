@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d479b64-11ab-4ada-8fdb-1fdcc186c7b4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page_4/index.html" afterPath="$PROJECT_DIR$/landing-page_4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landing-page_4/css/style.css" afterPath="$PROJECT_DIR$/landing-page_4/css/style.css" />
-    </list>
+    <list default="true" id="1d479b64-11ab-4ada-8fdb-1fdcc186c7b4" name="Default" comment="" />
     <ignored path="amyash.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -31,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing-page_4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375" vertical-offset="75" max-vertical-offset="810">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state vertical-scroll-proportion="-10.0" vertical-offset="75" max-vertical-offset="810">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -41,8 +38,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="105" max-vertical-offset="2490">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
+            <state vertical-scroll-proportion="-7.5416665" vertical-offset="1784" max-vertical-offset="2490">
+              <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -51,8 +48,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landing-page_4/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40656206" vertical-offset="1710" max-vertical-offset="2595">
-              <caret line="133" column="47" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.30136988" vertical-offset="1700" max-vertical-offset="2595">
+              <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -61,7 +58,7 @@
       <file leaf-file-name="demo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/landing-page_4/css/demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.8888888" vertical-offset="0" max-vertical-offset="2820">
+            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2820">
               <caret line="7" column="70" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="70" />
               <folding />
             </state>
@@ -99,6 +96,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
@@ -159,6 +157,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amyash.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="amyash.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sedna" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -192,6 +204,9 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -199,9 +214,6 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -220,7 +232,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <frame x="4" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -229,7 +241,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24892704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20314735" sideWeight="0.49932885" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20600858" sideWeight="0.49932885" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2569956" sideWeight="0.50067115" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.049689442" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -265,6 +277,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/landing-page_4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="810">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2490">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page_4/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2595">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page_4/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2820">
+          <caret line="7" column="70" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/landing-page_3/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2385">
@@ -285,7 +329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1920">
           <caret line="33" column="9" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -363,7 +406,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.54403406" vertical-offset="202" max-vertical-offset="930">
           <caret line="39" column="75" selection-start-line="39" selection-start-column="75" selection-end-line="39" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,13 +429,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1920">
           <caret line="33" column="9" selection-start-line="32" selection-start-column="0" selection-end-line="33" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page_4/css/demo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888" vertical-offset="0" max-vertical-offset="2820">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2820">
           <caret line="7" column="70" selection-start-line="7" selection-start-column="69" selection-end-line="7" selection-end-column="70" />
           <folding />
         </state>
@@ -401,24 +442,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="105" max-vertical-offset="2490">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="29" selection-end-column="16" />
+        <state vertical-scroll-proportion="-7.5416665" vertical-offset="1784" max-vertical-offset="2490">
+          <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page_4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375" vertical-offset="75" max-vertical-offset="810">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state vertical-scroll-proportion="-10.0" vertical-offset="75" max-vertical-offset="810">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/landing-page_4/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40656206" vertical-offset="1710" max-vertical-offset="2595">
-          <caret line="133" column="47" selection-start-line="133" selection-start-column="47" selection-end-line="133" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.30136988" vertical-offset="1700" max-vertical-offset="2595">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
           <folding />
         </state>
       </provider>
