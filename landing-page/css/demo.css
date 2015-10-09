@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,700|Open+Sans:800);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500,700,900|Dosis:800|Playfair+Display:400,400italic,900italic|Lora:700|Syncopate:700|Roboto+Condensed:300italic|Oswald:700);
 
 @font-face {
 	font-weight: normal;
@@ -11,78 +11,124 @@
 		url('../fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
-*, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
-.clearfix:before, .clearfix:after { content: ''; display: table; }
+*, *:after, *:before { box-sizing: border-box; }
+.clearfix:before, .clearfix:after {display: table;  content: ''; }
 .clearfix:after { clear: both; }
 
 body {
 	background: #fff;
-	color: #333;
+	color: #1e1a1b;
 	font-weight: 500;
 	font-size: 1em;
 	font-family: 'Raleway', Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 a {
-	color: #e06084;
-	text-decoration: none;
 	outline: none;
+	color: #dd3e62;
+	text-decoration: none;
 }
 
-a:hover, a:focus,
-.codrops-demos a.current-demo {
-	color: #ac3557;
+a:hover {
+	color: #1e1a1b;
 }
 
-.dark { color: #fff; }
+ a:focus {
+ 	outline: none;
+ }
 
 .hidden {
-	position: absolute;
-	pointer-events: none;
-	width: 0;
 	height: 0;
+	width: 0;
 	overflow: hidden;
+	position: absolute;
 }
 
 /* Header */
 .codrops-header {
-	padding: 3em 1em 4em;
+	padding: 2em 1em 4em;
 	text-align: center;
+	height: calc(100vh - 40px);
+	margin: 20px 20px 20px;
+	overflow: hidden;
+	position: relative;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	flex-direction: column;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	background: url(../img/mouse.svg) no-repeat left 50% bottom 40px;
+}
+
+.codrops-header::before,
+.codrops-header::after {
+	content: 'Lorizzleipsizzledolorcrazy amizzlefoshizzleizzleelit Nullizzlesapienvelizzle aliquetvolutpatfoshizzlefo shizzlemynizzlegravidafoshizzle Lorizzleipsizzledolorcrazy amizzlefoshizzleizzleelit Nullizzlesapienvelizzle aliquetvolutpatfoshizzlefo shizzlemynizzlegravidafoshizzle';
+	font-size: 13em;
+	line-height: 0.5;
+	letter-spacing: -15px;
+	z-index: 10;
+	text-align: justify;
+	pointer-events: none;
+	position: absolute;
+	background: #cdced2;
+	color: rgba(255,255,255,0.15);
+	font-family: 'Playfair Display', cursive;
+	font-weight: 900;
+	font-style: italic;
+	z-index: -1;
+	width: 120%;
+	height: 120%;
+	top: -10%;
+	left: -10%;
 }
 
 .codrops-header h1 {
+	margin: 0;
+	padding: 0 0 1em;
 	font-weight: 800;
-	font-size: 3em;
+	font-size: 2.75em;
 	line-height: 1;
-	margin-bottom: 0.5em;
-	letter-spacing: -1px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: #49484a;
 }
 
 .codrops-header h1 span {
+	font-style: italic;
+	font-family: 'Playfair Display', serif;
+}
+
+.codrops-header h1 .sub {
 	display: block;
-	font-size: 0.45em;
-	font-weight: 700;
-	padding: 1em;
-	opacity: 0.6;
+	padding: 0.75em 0;
+	color: #F9F9F9;
+	font-weight: 400;
+	font-size: 68%;
+	text-transform: none;
 }
 
 /* Top Navigation Style */
 .codrops-links {
 	position: relative;
 	display: inline-block;
-	white-space: nowrap;
-	font-size: 1.25em;
 	text-align: center;
+	white-space: nowrap;
+	-webkit-flex: none;
+	flex: none;
 }
 
 .codrops-links::after {
 	position: absolute;
 	top: 0;
 	left: 50%;
-	margin-left: -1px;
-	width: 2px;
+	width: 1px;
 	height: 100%;
-	background: rgba(155,155,155,0.6);
+	background: #fff;
 	content: '';
 	-webkit-transform: rotate3d(0,0,1,22.5deg);
 	transform: rotate3d(0,0,1,22.5deg);
@@ -90,9 +136,7 @@ a:hover, a:focus,
 
 .codrops-icon {
 	display: inline-block;
-	margin: 0.5em;
-	padding: 0em 0;
-	width: 1.5em;
+	margin: 15px;
 	text-decoration: none;
 }
 
@@ -108,6 +152,7 @@ a:hover, a:focus,
 	font-variant: normal;
 	font-family: 'codropsicons';
 	line-height: 1;
+
 	speak: none;
 	-webkit-font-smoothing: antialiased;
 }
@@ -120,28 +165,49 @@ a:hover, a:focus,
 	content: "\e004";
 }
 
-/* Demo links */
-.codrops-demos {
-	margin: 2em 0 0;
+/* Grid */
+.grid__item {
+	height: calc(100vh - 40px);
+	min-height: 460px;
+	max-width: calc(100vw - 40px);
+	background: #DDD;
+	margin: 20px;
+	padding: 100px 0;
+	z-index: 1;
+	position: relative;
+	text-align: center;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-transform: translate3d(0,0,0); /* Solves Safari bug because of SVG clipping mask */
 }
 
-.codrops-demos a {
-	display: inline-block;
-	margin: 0 0.5em;
-	font-size: 60%;
-	text-transform: uppercase;
+.grid__item p {
+	font-size: 1.5em;
+	font-weight: bold;
+	color: #777;
 }
-/* Content */
-.content {
-	text-align: center;
-	position: relative;
-}
+
+/* Background colors */
+.color-1 { background: #E8E0DA; }
+.color-2 { background: #576b67; }
+.color-3 { background: #383A35; }
+.color-4 { background: #333; }
+.color-5 { background: #fda9a9; }
+.color-7 { background: #cde7d3; }
+.color-8 { background: #DCECDD; }
+.color-9 { background: #dedbba; }
+.color-10 { background: #222; }
+.color-11 { background: #515151; }
 
 /* Related demos */
-.content-related {
+.content--related {
+	padding: 3em 0;
 	text-align: center;
 	font-weight: bold;
-	padding: 3em 0;
 }
 
 .media-item {
@@ -153,7 +219,8 @@ a:hover, a:focus,
 }
 
 .media-item__img {
-	opacity: 0.7;
+	max-width: 100%;
+	opacity: 0.3;
 	-webkit-transition: opacity 0.3s;
 	transition: opacity 0.3s;
 }
@@ -164,19 +231,22 @@ a:hover, a:focus,
 }
 
 .media-item__title {
-	font-size: 1em;
 	margin: 0;
 	padding: 0.5em;
+	font-size: 1em;
 }
 
 @media screen and (max-width: 50em) {
 	.codrops-header {
 		padding: 3em 10% 4em;
 	}
+	.grid__item {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 40em) {
 	.codrops-header h1 {
-		font-size: 2.8em;
+		font-size: 1.85em;
 	}
 }
