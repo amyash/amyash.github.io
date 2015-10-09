@@ -47,6 +47,7 @@ a:hover, a:focus,
   min-width: 100%;
   pointer-events: none;
   margin: 0 auto;
+
 }
 
 .menu {
@@ -65,9 +66,6 @@ a:hover, a:focus,
 }
 
 .bmenu{
-  /*padding: 0px;*/
-  /*margin: 0 0 10px 0;*/
-  /*position: relative;*/
   padding: 50px 0px;
   margin: 0 auto;
   /*background: #f3c193;*/
@@ -78,15 +76,11 @@ a:hover, a:focus,
   -webkit-border-radius: 250px;
   -moz-border-radius: 250px;
   border-radius: 250px;
-  /*-webkit-transition: background-color 0.5s ease-in-out;*/
-  /*-moz-transition: background-color 0.5s ease-in-out;*/
-  /*-o-transition: background-color 0.5s ease-in-out;*/
-  /*-ms-transition: background-color 0.5s ease-in-out;*/
-  /*transition: background-color 0.5s ease-in-out;*/
-
-  /*background-color: #f3c193;*/
-  /*background-image: repeating-linear-gradient(45deg, transparent, transparent 6px, rgba(255,255,255,.5) 0px, rgba(255,255,255,.5) 11px);*/
-  border: 4px solid #fff;
+  border: 1px solid #fff;
+  -webkit-box-shadow: 0px 0px 10px 2px #fff;
+  -moz-box-shadow: 0px 0px 10px 2px #fff;
+  -o-box-shadow: 0px 0px 10px 2px #fff;
+  -ms-box-shadow: 0px 0px 10px 2px #fff;
 }
 
 .bmenu li{
@@ -144,7 +138,11 @@ a:hover, a:focus,
     /*height:0;*/
     /*padding: 0;*/
     /*margin: 0 20px;*/
-    /*font-family: 'Raleway', Arial, sans-serif; */
+    font-family: 'Raleway', Arial, sans-serif;
+    -webkit-box-shadow: 0px;
+    -moz-box-shadow: 0px;
+    -o-box-shadow: 0px;
+    -ms-box-shadow: 0px;
   }
   .bmenu li {
     font-size: 80px;
