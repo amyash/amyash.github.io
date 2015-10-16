@@ -44,6 +44,31 @@ h5 {
   border-color: #FF5274;
   background-color: #FF5274; }
 
+.btn-brown {
+  font-size: 13px;
+  border: solid 2px;
+  border-radius: 40px;
+  display: inline-block;
+  border-color: #584B44;
+  color: #584B44;
+
+}
+
+a.btn-brown {
+  font-size: 13px;
+  border: solid 2px;
+  display: inline-block;
+  border-color: #584B44;
+  color: #584B44;
+  width: 120px;
+  height: 67px;
+  -moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 50px;
+  border-radius: 110px / 63px;
+  margin-top: -10px;
+}
+
+
 .btn-white {
   font-size: 13px;
   border: solid 2px;
@@ -81,7 +106,7 @@ section.intro, section.features-extra, section.sign-up {
   background: #fff; }
 
 section.features, section.blog-intro, section.blog {
-  background: #F3F4F8; }
+  background: #DB5E46; }
 
 /* ==========================================================================
 Global Styles
@@ -348,21 +373,70 @@ Hero
 ========================================================================== */
 .hero {
   min-height: 750px;
-  background: url("../img/switzerland.jpg") center center;
-  background-size: cover;
+  background-color: #A43C3B;
+  top: 0;
+  height: 50%;
   position: relative; }
   .hero .down-arrow a {
-    color: #fff; }
+    color: #DCBE3C; }
   .hero h1 {
-    color: #fff;
-    margin-bottom: 40px; }
+    color: #A43C3B;
+    margin-bottom: 40px;
+    margin-left: 1em;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: capitalize;
+    font-size: 16em;
+
+  }
   .hero p.intro {
     color: #fff;
     font-size: 20px;
     font-weight: 300;
     margin-bottom: 80px; }
+  .hero p.small {
+    color: #fff;
+    font-size: 15px;
+    font-style: italic ;
+    font-weight: 300;
+    margin-bottom: 80px;
+  }
   .hero .hero-content {
-    padding-top: 26%; }
+    padding-top: 16%;
+  }
+  .hero .skew1 {
+    background-color: #DCBE3C;
+    bottom: 0;
+    transform: rotate(-3deg);
+    left: -5%;
+    top: -5%;
+    position: absolute;
+    height: 50%;
+    right: -5%;
+  }
+
+
+  .hero h1.ash {
+    color: #DCBE3C;
+    margin-bottom: 40px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: capitalize;
+    font-size: 16em;
+    margin-left: 1.5em;
+    margin-top: 0.64em;
+    transform: rotate(-3deg);
+  }
+
+  /*.hero-content .skew2 {*/
+
+    /*bottom: 0;*/
+    /*height: 50%;*/
+    /*transform: rotate(5deg);*/
+  /*}*/
+  /*.hero-content .skew2 h1 {*/
+
+  /*}*/
+
+
 
 .navigation {
   -webkit-transition: all 300ms ease-in-out;
@@ -399,18 +473,18 @@ header {
     header ul.primary-nav li {
       display: inline; }
       header ul.primary-nav li a {
-        color: #fff;
+        color: #584B44;
         padding-right: 25px; }
         header ul.primary-nav li a:hover {
-          color: #FF5274; }
+          color: #A43C3B; }
       header ul.primary-nav li:last-child a {
         padding-right: 0px; }
   header ul.member-actions li {
     display: inline; }
     header ul.member-actions li a {
-      color: #fff; }
+      color: #584B44; }
       header ul.member-actions li a:hover {
-        color: #FF5274; }
+        color: #A43C3B; }
   header .header-nav {
     display: inline-block; }
   header .member-actions {
@@ -422,7 +496,7 @@ header {
 
 .down-arrow {
   color: #fff;
-  font-size: 30px;
+  font-size: 70px;
   position: absolute;
   bottom: 30px;
   left: 50%;
@@ -734,6 +808,9 @@ Skills (codrops circles)
     border-right: solid 1px #E6E9EA; }
   .blog-intro .rightcol {
     padding-left: 100px; }
+  .blog-intro p {
+    color: #fff;
+  }
 
 /* ==========================================================================
 .blog
