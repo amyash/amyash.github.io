@@ -377,31 +377,26 @@ Hero
   top: 0;
   height: 50%;
   position: relative; }
-  .hero .down-arrow a {
-    color: #DCBE3C; }
+  .hero .hero-content {
+    padding-top: 16%;
+  }
   .hero h1 {
     color: #A43C3B;
     margin-bottom: 40px;
-    margin-left: 1em;
+    margin-left: 33%;
     font-family: Impact, Charcoal, sans-serif;
     text-transform: capitalize;
     font-size: 16em;
-
   }
-  .hero p.intro {
-    color: #fff;
-    font-size: 20px;
-    font-weight: 300;
-    margin-bottom: 80px; }
-  .hero p.small {
-    color: #fff;
-    font-size: 15px;
-    font-style: italic ;
-    font-weight: 300;
-    margin-bottom: 80px;
-  }
-  .hero .hero-content {
-    padding-top: 16%;
+  .hero h1.ash {
+    color: #DCBE3C;
+    margin-bottom: 40px;
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: capitalize;
+    font-size: 16em;
+    margin-left: 30%;
+    margin-top: 0.61em;
+    transform: rotate(-3deg);
   }
   .hero .skew1 {
     background-color: #DCBE3C;
@@ -413,29 +408,52 @@ Hero
     height: 50%;
     right: -5%;
   }
+.hero .down-arrow a {
+  color: #DCBE3C; }
 
+@media screen and (max-width:1200px) {
+  .hero .hero-content {
+    padding-top: 20%;
+  }
+}
 
-  .hero h1.ash {
-    color: #DCBE3C;
-    margin-bottom: 40px;
-    font-family: Impact, Charcoal, sans-serif;
-    text-transform: capitalize;
-    font-size: 16em;
-    margin-left: 1.5em;
-    margin-top: 0.64em;
-    transform: rotate(-3deg);
+@media screen and (max-width:1024px) {
+
+}
+
+@media screen and (max-width:991px) {
+  .hero .hero-content {
+    padding-top: 31%;
   }
 
-  /*.hero-content .skew2 {*/
+  .hero h1 {
+    font-size: 10em;
+  }
 
-    /*bottom: 0;*/
-    /*height: 50%;*/
-    /*transform: rotate(5deg);*/
-  /*}*/
-  /*.hero-content .skew2 h1 {*/
+  .hero h1.ash {
+    font-size: 10em;
+    margin-left: 24%;
+    margin-top: 0.64em;
+  }
+}
 
-  /*}*/
-
+@media screen and (max-width:775px) {
+  .hero .hero-content {
+    padding-top: 16em;
+  }
+}
+@media screen and (max-width:480px) {
+  .hero h1 {
+    font-size: 5em;
+    margin-top: 1.23em;
+  }
+  .hero h1.ash {
+    font-size: 5em;
+    margin-top: 1.45em;
+  }
+}
+@media screen and (max-width:320px) {
+}
 
 
 .navigation {

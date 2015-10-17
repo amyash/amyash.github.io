@@ -9,10 +9,6 @@
 		width: 70%;
 	}
 
-	.hero .hero-content {
-		padding-top: 28%;
-	}
-
 }
 
 @media screen and (max-width:1024px) {
@@ -24,10 +20,7 @@
 		width: 90%;
 		padding-left: 25px;
 	}
-
-	.hero .hero-content {
-		padding-top: 32%;
-	}
+}
 
 	.header-nav {
 		position: fixed;
@@ -235,6 +228,8 @@
 		margin: 120px 0 120px 0;
 	}
 
+@media screen and (max-width:680px) {
+}
 	@media screen and (max-width:640px) {
 		footer ul.footer-group {
 			border-top: none;
@@ -259,9 +254,6 @@
 	}
 
 	@media screen and (max-width:480px) {
-		.hero .hero-content {
-			padding-top: 41%;
-		}
 
 		.hero .btn {
 			display: block;
@@ -271,10 +263,6 @@
 
 		.hero .btn:first-of-type {
 			margin-bottom: 20px;
-		}
-
-		.hero h1 {
-			font-size: 50px;
 		}
 
 		.btn-margin-right {
@@ -313,7 +301,7 @@
 		}
 
 		.down-arrow {
-			display: none;
+			/*display: none;*/
 		}
 
 	}
