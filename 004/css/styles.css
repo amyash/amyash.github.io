@@ -658,6 +658,56 @@ Clients (Slick Slider)
 
 }
 
+/* slider styling */
+.hero-content .slick-list {
+padding-top: 10%;
+}
+.hero-content .slick-slider ul{
+  position: absolute;
+  top: 0;
+}
+
+.slick-dots li button:before {
+display:none;
+}
+
+.slick-slider ul.slick-dots li{
+  width: 60px;
+  height: 60px;
+}
+
+
+.slick-slider #slick-slide00 {
+  width: 60px;
+  height: 60px;
+  background-image: url("../img/4.jpg");
+}
+.slick-slider #slick-slide01 {
+  width: 60px;
+  height: 60px;
+  background-image: url("../img/5.jpg");
+}
+
+.slick-slider #slick-slide02 {
+  width: 60px;
+  height: 60px;
+  background-image: url("../img/6.jpg");
+}
+
+.slick-slider #slick-slide03 {
+  width: 60px;
+  height: 60px;
+  background-image: url("../img/130.jpg");
+}
+
+.slick-slider #slick-slide04 {
+  width: 60px;
+  height: 60px;
+  background-image: url("../img/me1.jpg");
+}
+
+
+
 
 /* CIRCLES*/
 /* Grid */

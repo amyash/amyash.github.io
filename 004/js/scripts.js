@@ -1,5 +1,13 @@
 $(document).ready(function() {
 
+	/********** Slider ****************/
+	$('.multiple-items').slick({
+		infinite: true,
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		dots: true,
+
+	});
 	/***************** Waypoints ******************/
 
 	$('.wp1').waypoint(function() {
@@ -101,5 +109,3 @@ $(document).ready(function() {
 	});
 
 });
-
-$('.single-item').slick();
