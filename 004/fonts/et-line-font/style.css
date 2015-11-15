@@ -341,3 +341,19 @@ you can use the generic selector below, but it's slower:
 .icon-dribbble:before {
 	content: "\e063";
 }
+
+/* ==========================================================================
+Bodoni font
+========================================================================== */
+@font-face {
+	font-family: 'poster_bodoniroman';
+	src: url('poster_bodoni-webfont.eot');
+	src: url('poster_bodoni-webfont.eot?#iefix') format('embedded-opentype'),
+	url('poster_bodoni-webfont.woff2') format('woff2'),
+	url('poster_bodoni-webfont.woff') format('woff'),
+	url('poster_bodoni-webfont.ttf') format('truetype'),
+	url('poster_bodoni-webfont.svg#poster_bodoniroman') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}

@@ -536,10 +536,53 @@ Intro
 
 
 /* ==========================================================================
-Clients (Slick Slider)
+Slider styles
 ========================================================================== */
+
+/* slider styling */
+.slick-initialized .slick-slide {
+  outline: 0;
+}
+
+.slick-list {
+  padding-bottom: 15%;
+}
+
+.slick-dots {
+  position: relative!important;
+  top:auto;
+  bottom: 0!important;
+
+}
+.slick-dots li button:before {
+  display:none;
+}
+
+.slick-slider ul.slick-dots li{
+  width: 100px;
+  height: 100px;
+  margin: 2%;
+}
+
+.client-image img{
+  width: 100%;
+  background-position: center;
+}
+
+
+/*=======================*/
+/* Corporate clients slick slider */
+/*=======================*/
 .clients {
   background-color: lightblue;
+}
+.client-title {
+  background-color: antiquewhite;
+  text-align: right;
+}
+
+.client-name {
+background-color: antiquewhite;
 }
 
 .clients .container {
@@ -547,8 +590,22 @@ Clients (Slick Slider)
   width: 100%;
 }
 
+.clients h2 {
+  font-family: 'franklin_gothic_fsdemi',  serif;
+  font-size: 90px;
+  text-transform: uppercase;
+}
+
+.clients h3 {
+  font-family: 'franklin_gothic_fsdemi',  serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
+}
+
+
 .clients .title {
-  margin-top: 5%;
 }
 .clients .client-intro {
   background: antiquewhite;
@@ -572,10 +629,6 @@ Clients (Slick Slider)
   background-position: center;
 }
 
-.clients .client-blurb {
-  padding: 6%;
-}
-
 .clients .client-intro h4 {
   color: rgba(28, 54, 83, 0.6);
   text-transform: capitalize;
@@ -586,128 +639,142 @@ Clients (Slick Slider)
 .clients .slick-next:before {
   color: black;
 }
-
-.ch-item {
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  position: relative;
-  cursor: default;
-  box-shadow:
-  inset 0 0 0 0 rgba(200,95,66, 0.4),
-  inset 0 0 0 16px rgba(255,255,255,0.6),
-  0 1px 2px rgba(0,0,0,0.1);
-
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-}
-
-.ch-img-1 {
-  background-image: url(../img/skills/ps.svg);
-  background-position: -48px -51px;
-  background-size: 170%;
-}
-
-.ch-img-2 {
-  background-image: url(../img/skills/ai.png);
-  background-position: -52px -41px;
-  background-size: 170%;
-}
-
-.ch-img-3 {
-  background-image: url(../img/skills/css3.svg);
-  background-position: -9px -56px;
-  background-size: 112%;
-  background-repeat: no-repeat;
-}
-.ch-img-4 {
-  background-image: url(../img/skills/html5.png);
-  background-repeat: no-repeat;
-  background-position: -42px -58px;
-  background-size: 157%;
-}
-.ch-img-5 {
-  background-image: url(../img/4.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-.ch-info {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  opacity: 0;
-
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-
-  -webkit-transform: scale(0);
-  -moz-transform: scale(0);
-  -o-transform: scale(0);
-  -ms-transform: scale(0);
-  transform: scale(0);
-
-  -webkit-backface-visibility: hidden; /*for a smooth font */
-
-}
-
-/* slider styling */
-.hero-content .slick-list {
-padding-top: 10%;
-}
-.hero-content .slick-slider ul{
-  position: absolute;
-  top: 0;
-}
-
-.slick-dots li button:before {
-display:none;
-}
-
-.slick-slider ul.slick-dots li{
-  width: 60px;
-  height: 60px;
-}
-
-
 .slick-slider #slick-slide00 {
-  width: 60px;
-  height: 60px;
-  background-image: url("../img/4.jpg");
+  background-image: url("../img/client_logos/aat.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 .slick-slider #slick-slide01 {
-  width: 60px;
-  height: 60px;
-  background-image: url("../img/5.jpg");
+  background-image: url("../img/client_logos/guardian.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .slick-slider #slick-slide02 {
-  width: 60px;
-  height: 60px;
-  background-image: url("../img/6.jpg");
+  background-image: url("../img/client_logos/michael-page.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .slick-slider #slick-slide03 {
-  width: 60px;
-  height: 60px;
-  background-image: url("../img/130.jpg");
+  background-image: url("../img/client_logos/eurostar.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .slick-slider #slick-slide04 {
-  width: 60px;
-  height: 60px;
-  background-image: url("../img/me1.jpg");
+  background-image: url("../img/client_logos/capgemini.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.slick-slider #slick-slide05 {
+  background-image: url("../img/client_logos/royal-mail.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
+/*=======================*/
+/* Community slick slider */
+/*=======================*/
 
+.community {
+  background-color: #080808;
+}
 
+.community  h2 {
+  font-family: 'clarendon_btroman',  serif;
+  font-size: 90px;
+  text-transform: uppercase;
+  color: #00D5C9;
+}
+
+.community p {
+  color: white;
+}
+/* National theatre */
+.slick-slider #slick-slide10 {
+  background-image: url("../img/client_logos/national-theatre.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* Science Museum*/
+.slick-slider #slick-slide11 {
+  background-image: url("../img/client_logos/science-museum.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* Frontend United */
+.slick-slider #slick-slide12 {
+  background-image: url("../img/client_logos/frontend-united.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* ==========================================================================
+Skills (codrops circles)
+========================================================================== */
+.features {
+  position: relative; }
+  .features p {
+    margin-bottom: 0;
+    padding-bottom: 0; }
+  .features h3 {
+    margin: 0 0 20px 0; }
+  .features span.icon {
+    font-size: 35px;
+    color: #FF5274;
+    font-weight: bold; }
+  .features .feature-icon {
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px 0 0 0;
+    margin-right: 20px;
+    width: 35px; }
+  .features .feature-content {
+    display: inline-block;
+    width: 75%; }
+  .features .intro-icon {
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px 0 0 0;
+    margin-right: 20px; }
+  .features .intro-content {
+    display: inline-block;
+    width: 80%; }
+  .features ul.features-stack {
+    margin-top: 50px; }
+  .features ul.features-stack li {
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #E6E9EA; }
+  .features ul.features-stack li:last-child {
+    padding-bottom: 0px;
+    border-bottom: none; }
+  .features .ipad-wrap {
+    width: 706px;
+    height: 1002px;
+    background: url("../img/ipad-device.png") no-repeat center center;
+    z-index: 1; }
+  .features .iphone-wrap {
+    width: 304px;
+    height: 620px;
+    background: url("../img/iphone6.png") no-repeat center center;
+    position: absolute;
+    left: 530px;
+    bottom: 129px;
+    z-index: 2; }
+  .features .device-showcase {
+    position: absolute;
+    bottom: -365px;
+    right: 61%; }
+
+.features .responsive-feature-img, .features-extra .responsive-feature-img {
+  display: none; }
+
+.devices {
+  position: relative; }
 
 /* CIRCLES*/
 /* Grid */
@@ -801,70 +868,76 @@ display:none;
 }
 
 
+.ch-item {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  position: relative;
+  cursor: default;
+  box-shadow:
+  inset 0 0 0 0 rgba(200,95,66, 0.4),
+  inset 0 0 0 16px rgba(255,255,255,0.6),
+  0 1px 2px rgba(0,0,0,0.1);
 
-/* ==========================================================================
-Skills (codrops circles)
-========================================================================== */
-.features {
-  position: relative; }
-  .features p {
-    margin-bottom: 0;
-    padding-bottom: 0; }
-  .features h3 {
-    margin: 0 0 20px 0; }
-  .features span.icon {
-    font-size: 35px;
-    color: #FF5274;
-    font-weight: bold; }
-  .features .feature-icon {
-    display: inline-block;
-    vertical-align: top;
-    padding: 6px 0 0 0;
-    margin-right: 20px;
-    width: 35px; }
-  .features .feature-content {
-    display: inline-block;
-    width: 75%; }
-  .features .intro-icon {
-    display: inline-block;
-    vertical-align: top;
-    padding: 6px 0 0 0;
-    margin-right: 20px; }
-  .features .intro-content {
-    display: inline-block;
-    width: 80%; }
-  .features ul.features-stack {
-    margin-top: 50px; }
-  .features ul.features-stack li {
-    margin-top: 20px;
-    padding-bottom: 20px;
-    border-bottom: solid 1px #E6E9EA; }
-  .features ul.features-stack li:last-child {
-    padding-bottom: 0px;
-    border-bottom: none; }
-  .features .ipad-wrap {
-    width: 706px;
-    height: 1002px;
-    background: url("../img/ipad-device.png") no-repeat center center;
-    z-index: 1; }
-  .features .iphone-wrap {
-    width: 304px;
-    height: 620px;
-    background: url("../img/iphone6.png") no-repeat center center;
-    position: absolute;
-    left: 530px;
-    bottom: 129px;
-    z-index: 2; }
-  .features .device-showcase {
-    position: absolute;
-    bottom: -365px;
-    right: 61%; }
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
 
-.features .responsive-feature-img, .features-extra .responsive-feature-img {
-  display: none; }
+.ch-img-1 {
+  background-image: url(../img/skills/ps.svg);
+  background-position: -48px -51px;
+  background-size: 170%;
+}
 
-.devices {
-  position: relative; }
+.ch-img-2 {
+  background-image: url(../img/skills/ai.png);
+  background-position: -52px -41px;
+  background-size: 170%;
+}
+
+.ch-img-3 {
+  background-image: url(../img/skills/css3.svg);
+  background-position: -9px -56px;
+  background-size: 112%;
+  background-repeat: no-repeat;
+}
+.ch-img-4 {
+  background-image: url(../img/skills/html5.png);
+  background-repeat: no-repeat;
+  background-position: -42px -58px;
+  background-size: 157%;
+}
+.ch-img-5 {
+  background-image: url(../img/4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ch-info {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  opacity: 0;
+
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+
+  -webkit-transform: scale(0);
+  -moz-transform: scale(0);
+  -o-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+
+  -webkit-backface-visibility: hidden; /*for a smooth font */
+
+}
 
 /* ==========================================================================
 .features-extra
@@ -916,13 +989,55 @@ Skills (codrops circles)
         -ms-transform: translateX(-50%);
             transform: translateX(-50%); }
 
+
+/* ==========================================================================
+Skill set section
+========================================================================== */
+.skillset{
+  background-color: #FFFED9;
+  padding-top: 50px; }
+.skillset .skills {
+  transform: rotate(-3deg);
+  background: url('../img/half-moon.png');
+  background-repeat: no-repeat;
+  background-position: 2% 100%;
+}
+.skillset h3 {
+  margin-bottom: 70px;
+  font-family: "Open Sans", sans-serif;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 52px;
+  color: #3F2D39;
+}
+.skillset .leftcol {
+  padding-right: 100px;
+  border-right: solid 1px #3F2D39;
+  padding-bottom: 92px;}
+.skillset .rightcol {
+  padding-left: 100px; }
+.skillset .rightcol img {
+  padding-bottom: 15px;
+}
+.skillset p {
+  color: #3F2D39;
+  text-transform: uppercase;
+}
+
+
 /* ==========================================================================
 .blog-intro
 ========================================================================== */
 .blog-intro {
   padding-top: 160px; }
   .blog-intro h3 {
-    margin-bottom: 70px; }
+    margin-bottom: 70px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 52px;
+    color: #FFFED9;
+  }
   .blog-intro .leftcol {
     padding-right: 100px;
     border-right: solid 1px #E6E9EA; }
@@ -1020,6 +1135,11 @@ Skills (codrops circles)
 /* ==========================================================================
 Sign up form
 ========================================================================== */
+.sign-up h3 {
+  font-family: 'poster_bodoniroman', serif;
+  font-size: 30px;
+}
+
 .sign-up .signup-form .sign-up-btn {
   padding: 15px 0;
   border-radius: 3px;
@@ -1516,3 +1636,50 @@ you can use the generic selector below, but it's slower:
 
 .icon-dribbble:before {
   content: "\e063"; }
+
+/* ==========================================================================
+Bodoni font
+========================================================================== */
+@font-face {
+  font-family: 'poster_bodoniroman';
+  src: url('../fonts/bodoni/poster_bodoni-webfont.eot');
+  src: url('../fonts/bodoni/poster_bodoni-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/bodoni/poster_bodoni-webfont.woff2') format('woff2'),
+  url('../fonts/bodoni/poster_bodoni-webfont.woff') format('woff'),
+  url('../fonts/bodoni/poster_bodoni-webfont.ttf') format('truetype'),
+  url('../fonts/bodoni/poster_bodoni-webfont.svg#poster_bodoniroman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+/* ==========================================================================
+Clarendon font
+========================================================================== */
+@font-face {
+  font-family: 'clarendon_btroman';
+  src: url('../fonts/clarendon/08634_clarendonbt-webfont.eot');
+  src: url('../fonts/clarendon/08634_clarendonbt-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/clarendon/08634_clarendonbt-webfont.woff2') format('woff2'),
+  url('../fonts/clarendon/08634_clarendonbt-webfont.woff') format('woff'),
+  url('../fonts/clarendon/08634_clarendonbt-webfont.ttf') format('truetype'),
+  url('../fonts/clarendon/08634_clarendonbt-webfont.svg#clarendon_btroman') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+/* ==========================================================================
+Franklin Gothic Demi font
+========================================================================== */
+@font-face {
+  font-family: 'franklin_gothic_fsdemi';
+  src: url('../fonts/franklin/franklingothic-demi-webfont.eot');
+  src: url('../fonts/franklin/franklingothic-demi-webfont.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/franklin/franklingothic-demi-webfont.woff2') format('woff2'),
+  url('../fonts/franklin/franklingothic-demi-webfont.woff') format('woff'),
+  url('../fonts/franklin/franklingothic-demi-webfont.ttf') format('truetype'),
+  url('../fonts/franklin/franklingothic-demi-webfont.svg#franklin_gothic_fsdemi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}

@@ -253,6 +253,17 @@
 	.hero .hero-content {
 		padding-top: 16em;
 	}
+
+	.skillset .skills {
+		transform: rotate(0deg);
+		background: none;
+	}
+	.skillset .skills .rightcol {
+		padding: 0 15px;
+	}
+	.skillset .skills .leftcol {
+	padding-bottom: 0;
+	}
 }
 
 @media screen and (max-width:680px) {
