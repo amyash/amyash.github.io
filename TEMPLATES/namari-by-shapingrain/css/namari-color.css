@@ -1,6 +1,5 @@
 /* Namari Landing Page Dynamic Style Index
 
-0. Amy custom styles
 1. Website Default Styling
 2. Navigation
 3. Primary and Secondary Colors
@@ -8,28 +7,6 @@
 5. Typography
 6. Buttons
 7. Footer
-
-/*------------------------------------------------------------------------------------------*/
-/* 0. AMY custom styles */
-/*------------------------------------------------------------------------------------------*/
-
-/* Case study index */
-aside#gallery {
-    background:#000;
-}
-
-/* Card design */
-
-  .gallerycard {
-    border: 10px #fff solid;
-    margin: 10px;
-  }
-
-  .gallerycardtext {
-    padding: 15px 15px 0 15px;
-  }
-/* CSS masonry */
-
 
 
 /*------------------------------------------------------------------------------------------*/
@@ -147,8 +124,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Banner Background and Text Colors */
 
 #banner {
-    /* background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top; */
-    background: url("../images/banner-images/MeCrop2.png") no-repeat center top;
+    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
     background-size:cover;
 }
 
@@ -252,7 +228,6 @@ h3 {
     font-size: 30px; 
     font-weight:700;
     color:#111;
-    text-transform: uppercase;
 }
 
 h4 {
