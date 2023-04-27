@@ -20,13 +20,22 @@ aside#gallery {
 
 /* Card design */
 
-  .gallerycard {
-    border: 10px #fff solid;
+  #gallery a {
+    border: 3px #fff solid;
     margin: 10px;
   }
 
   .gallerycardtext {
     padding: 15px 15px 0 15px;
+  }
+
+  .active {
+    position:absolute;
+    background: black;
+  }
+  
+  .active:hover {
+    opacity:0;
   }
 /* CSS masonry */
 
