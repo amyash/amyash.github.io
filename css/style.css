@@ -1023,9 +1023,9 @@ blockquote {
 
 /* Hover descriptions */
 
-#gallery.AudibleKurupt a:before {
+/* #gallery.AudibleKurupt a:before {
     content: "AUDIBLE KURUPT FM: An award winning advertising campaign featuring a serise of mock 'bad' websites to promote podcast episodes";
-}
+} */
 
 /**
  * Featherlight – ultra slim jQuery lightbox
