@@ -18,7 +18,7 @@ aside#gallery {
     background:#000;
 }
 
-/* Card design */
+/* Card design *
 
   #gallery a {
     border: 3px #fff solid;
@@ -37,6 +37,7 @@ aside#gallery {
   .active:hover {
     opacity:0;
   }
+
 /* CSS masonry */
 
 
