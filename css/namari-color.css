@@ -55,17 +55,17 @@ figure {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 375px;
-    min-width: 375px;
-    height: 667px;
-    border-radius: 10px;
+    width: 300px;
+    min-width: 300px;
+    height: 300px;
+    border-radius: 5px;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
     overflow: hidden; 
   }
   figure:hover {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-    background: #fff;
+    border: 3px solid white;
   }
 
   /* figure:hover h1 {
@@ -102,6 +102,7 @@ figure {
   figure:hover figcaption {
     bottom: 0;
   }
+
   /* figure h1 {
     position: absolute;
     top: 50px;
@@ -123,11 +124,11 @@ figure {
   }
   figure figcaption {
     position: absolute;
-    bottom: -34%;
+    bottom: -53%;
     left: 0;
     width: 100%;
     margin: 0;
-    padding: 30px;
+    padding: 10px 30px;
     background-color: rgba(0, 0, 0, 0.85);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     color: white;
@@ -137,6 +138,10 @@ figure {
   figure figcaption h3 {
     margin: 0 0 20px;
     padding: 0;
+    color: #fff;
+  }
+  figure figcaption h4{
+    color: #fff!important;
   }
   figure figcaption p {
     font-size: 14px;
@@ -398,6 +403,15 @@ h6 {
     font-size: 14px; 
     font-weight:400;
     color:#111;
+}
+
+#gallery h2 {
+    font-family: 'Open Sans', sans-serif, Arial, Helvetica;
+    font-size: 34px;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    padding: 0 0 50px 0;
 }
 
 
