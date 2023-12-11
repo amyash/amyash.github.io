@@ -594,6 +594,13 @@ p.copyright {
   margin: 1.5rem 0;
 }
 
+/*AA*/
+p.stats {
+  /* color: #322c2c; */
+  font-weight: 400;
+  font-style: italic;
+}
+
 a {
   color: #a5a5a5;
   text-decoration: none;
